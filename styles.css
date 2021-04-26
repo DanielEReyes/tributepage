@@ -1,0 +1,62 @@
+.container {
+    background-color: #7e7e7e;
+    opacity: .8;
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 5em;
+    padding-top: 20px;
+    background-color: #c1c1c1;    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+    max-width: 35%;
+    margin: auto;    
+}
+.picture {
+    margin: 0 30px;
+    background-color: #c1c1c1;
+}
+
+.credit {
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+.hisLife {
+    font-size: .75em;
+    margin: 0 30px;
+    justify-content: flex-start;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+
+li {
+    margin-top: 5px;
+    
+}
+
+.footer p {
+    font-size: 1em;    
+}
+
+.footer a {
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+}
